@@ -63,7 +63,7 @@ The Smart Queue app allows users to:
 
 <h3>Service Details Screen</h3>
 
-<img src="Screenshots/07_ServiceDetails" width="250">
+<img src="Screenshots/07_ServiceDetails.png" width="250">
 
 <h3>Booking Details Screen</h3>
 
