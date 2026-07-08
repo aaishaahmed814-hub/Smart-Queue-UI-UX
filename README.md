@@ -40,9 +40,9 @@ The Smart Queue app allows users to:
 
 <img src="Screenshots/01_SplashScreen.png" width="250">
 
-### SignUp Screen
+<h3>Sign Up</h3>
 
-![SignUp](Screenshots/02_SignUp.png)
+<img src="Screenshots/02_SignUp.png" width="250">
 
 ### Login Screen
 
