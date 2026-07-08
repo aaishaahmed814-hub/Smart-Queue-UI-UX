@@ -36,9 +36,9 @@ The Smart Queue app allows users to:
 
 ## Screenshots
 
-### Splash Screen
+<h3>Splash Screen</h3>
 
-![Splash](Screenshots/01_SplashScreen.png)
+<img src="Screenshots/01_SplashScreen.png" width="250">
 
 ### SignUp Screen
 
