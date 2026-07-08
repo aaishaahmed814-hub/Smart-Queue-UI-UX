@@ -44,76 +44,77 @@ The Smart Queue app allows users to:
 
 <img src="Screenshots/02_SignUp.png" width="250">
 
-### Login Screen
+<h3>Login</h3>
 
-![Login](Screenshots/03_login.png)
+<img src="Screenshots/03_login.png" width="250">
 
-### Dashboard
+<h3>Dashboard</h3>
 
-![Dashboard](Screenshots/04_dashboard.png)
+<img src="Screenshots/04_dashboard.png" width="250">
 
-### Branch Profile
+<h3>BranchProfile</h3>
 
-![BranchProfile](Screenshots/05_BranchProfile.png)
+<img src="Screenshots/05_BranchProfile.png" width="250">
 
-### Service Screen
+<h3>Service Screen</h3>
 
-![Service](Screenshots/06_service.png)
-
-
-### Service Details Screen
-
-![ServiceDetails](Screenshots/07_ServiceDetails.png)
-
-### Booking Details Screen
-
-![BookingDetails](Screenshots/08_BookingDetails.png)
-
-### Token Generation Screen
-
-![TokenGeneration](Screenshots/09_TokenGeneration.png)
-
-### Queue Tracking
-
-![QueueTracking](Screenshots/10_QueueTracking.png)
-
-### Map View
-
-![Map View](Screenshots/11_Mapview.png)
-
-### Travel Time Alert Screen
-
-![TravelTimeAlertScreen](Screenshots/12_TravelTimeAlert.png)
-
-### QR Checkin
-
-![QR Checkin](Screenshots/13_QR_Checkin.png)
-
-### Auto Checkin
-
-![Auto Checkin](Screenshots/14_AutoCheckin.png)
+<img src="Screenshots/06_service.png" width="250">
 
 
-### Service Alert
+<h3>Service Details Screen</h3>
 
-![Service Alert](Screenshots/15_ServiceAlert.png)
+<img src="Screenshots/07_ServiceDetails" width="250">
 
-### Service Active
+<h3>Booking Details Screen</h3>
 
-![Service Active](Screenshots/16_ServiceActive.png)
+<img src="Screenshots/08_BookingDetails.png width="250">
 
-### Service Completed Screen
+<h3>Token Generation Screen</h3>
 
-![Service Completed Screen](Screenshots/17_ServiceCompletedScreen.png)
+<img src="Screenshots/09_TokenGeneration.png width="250">
 
-### Feedback Screen
+<h3>Queue Tracking</h3>
 
-![Feedback Screen](Screenshots/18_FeedbackScreen.png)
+<img src="Screenshots/10_QueueTracking.png width="250">
 
-### Feedback Completed Screen
 
-![Feedback Completed Screen](Screenshots/19_FeedbackSubmission.png)
+<h3>Map View</h3>
 
+<img src="Screenshots/11_Mapview.png width="250">
+
+<h3>Travel Time Alert Screen</h3>
+
+<img src="Screenshots/12_TravelTimeAlert.png width="250">
+
+
+<h3>QR Checkin</h3>
+
+<img src="Screenshots/13_QR_Checkin.png width="250">
+
+
+<h3>Auto Checkin</h3>
+
+<img src="Screenshots/14_AutoCheckin.png width="250">
+
+<h3>Service Alert</h3>
+
+<img src="Screenshots/15_ServiceAlert.png width="250">
+
+<h3>Service Active</h3>
+
+<img src="Screenshots/16_ServiceActive.png width="250">
+
+<h3>Service Completed Screen</h3>
+
+<img src="Screenshots/17_ServiceCompletedScreen.png width="250">
+
+<h3>Feedback Screen</h3>
+
+<img src="Screenshots/18_FeedbackScreen.png width="250">
+
+<h3>Feedback Completed Screen</h3>
+
+<img src="Screenshots/19_FeedbackSubmission.png width="250">
 
 ## Figma Design
 
